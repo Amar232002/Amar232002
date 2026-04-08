@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**Amar232002/Amar232002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Amarnath Chatterjee 👋  
 
-Here are some ideas to get you started:
+🚀 Aspiring Data Scientist | Machine Learning & Deep Learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about transforming raw data into meaningful insights and building intelligent solutions using data science and machine learning. I have hands-on experience working on real-world projects involving data analysis, predictive modeling, and interactive dashboards.  
+
+## 🧠 Skills  
+- Python, SQL, Excel  
+- Machine Learning & Deep Learning  
+- Pandas, NumPy, Scikit-learn  
+- Power BI, Matplotlib, Seaborn  
+
+## 📊 Projects  
+- 💻 Laptop Price Analysis & Prediction (ML + Streamlit)  
+- 📈 Customer Acquisition & Retention Dashboard (Power BI)  
+- 🤖 Customer Churn Prediction (Machine Learning)  
+- 💰 Financial Transaction Analysis (Python)  
+- 🚚 Logistics Optimization (SQL)  
+
+## 🚀 What I Do  
+I build data-driven solutions including dashboards, analytics systems, and machine learning models to solve real-world business problems and support decision-making.  
+
+## 📫 Connect with Me  
+- LinkedIn: https://www.linkedin.com/in/amarnath-chatterjee-8482a5266  
+
+---
+⭐ Always learning, building, and growing in Data Science & AI
