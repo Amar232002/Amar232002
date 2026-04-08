@@ -106,10 +106,6 @@ me = DataScientist()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar232002&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amar232002&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 ## 💼 **Professional Experience**
