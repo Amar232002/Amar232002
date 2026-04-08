@@ -44,14 +44,6 @@
 - 💰 Financial Transaction Analysis  
 - 🚚 Logistics Optimization (SQL)  
 
----
-
-## 📈 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amar232002&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</div>
-
----
 
 ## 🚀 Quote  
 <p align="center">
