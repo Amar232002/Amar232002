@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Amarnath+Chatterjee;Data+Scientist+%7C+ML+Engineer;Python+%7C+SQL+%7C+Power+BI;Building+Data-Driven+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Amarnath+Chatterjee;Data+Scientist+%7C+AI/ML+Engineer;Python+%7C+SQL+%7C+Power+BI;Building+Data-Driven+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,11 +20,11 @@ class Data_Scientist:
         
     def get_skills(self):
         return {
-              "Languages": ["Python", "SQL"],
+        "Languages": ["Python", "SQL"],
         "Machine Learning": ["Scikit-learn", "Regression", "Classification", "Random Forest", "Model Evaluation"],
-        "Deep Learning": ["TensorFlow (Basics)", "Neural Networks"],
+        "Deep Learning": ["TensorFlow", "Neural Networks"],
         "Data Analysis": ["Pandas", "NumPy", "EDA", "Feature Engineering", "Data Cleaning"],
-        "Visualization": ["Power BI", "Matplotlib", "Seaborn"],
+        "Visualization": ["Power BI", "Tableau", "Matplotlib", "Seaborn"],
         "Databases": ["MySQL", "PostgreSQL"],
         "Deployment": ["Flask", "Streamlit"],
         "Tools": ["Git", "Jupyter Notebook", "Excel"]
