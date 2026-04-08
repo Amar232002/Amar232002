@@ -32,7 +32,7 @@
 ### 🚀 About Me  
 - 🔭 Working on Machine Learning & Data Analytics Projects  
 - 🌱 Learning Deep Learning & GenAI  
-- 💬 Ask me about Python, SQL, ML, Power BI  
+- 💬 Ask me about Python, SQL, Machine Learning, Power BI  
 - 📫 Email: amarnathchatterjee232002@gmail.com  
 
 ---
@@ -46,18 +46,14 @@
 
 ---
 
+### 📈 GitHub Stats  
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Amar232002&theme=dark&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amar232002&show_icons=true&theme=radical&hide_border=true"/>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amar232002&show_icons=true&theme=radical"/>
-</div>
-
----
-
+### 🚀 Quote  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg"/>
+  <i>"Turning data into insights and insights into impact."</i>
 </p>
