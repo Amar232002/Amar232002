@@ -192,10 +192,10 @@ Recent Work:
 
 ---
 
-## 🐍 **Contribution Snake**
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Amar232002/Amar232002/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Amar232002/Amar232002/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
 ---
