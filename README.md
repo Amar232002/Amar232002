@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm Amarnath Chatterjee 👋  
+#  I'm Amarnath Chatterjee 👋  
 
 🚀 Aspiring Data Scientist | Machine Learning & Deep Learning  
 
