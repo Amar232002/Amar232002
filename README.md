@@ -1,29 +1,46 @@
-## Hi there 👋
-
-#  I'm Amarnath Chatterjee 👋  
-
-🚀 Aspiring Data Scientist | Machine Learning & Deep Learning  
-
-I am passionate about transforming raw data into meaningful insights and building intelligent solutions using data science and machine learning. I have hands-on experience working on real-world projects involving data analysis, predictive modeling, and interactive dashboards.  
-
-## 🧠 Skills  
-- Python, SQL, Excel  
-- Machine Learning & Deep Learning  
-- Pandas, NumPy, Scikit-learn  
-- Power BI, Matplotlib, Seaborn  
-
-## 📊 Projects  
-- 💻 Laptop Price Analysis & Prediction (ML + Streamlit)  
-- 📈 Customer Acquisition & Retention Dashboard (Power BI)  
-- 🤖 Customer Churn Prediction (Machine Learning)  
-- 💰 Financial Transaction Analysis (Python)  
-- 🚚 Logistics Optimization (SQL)  
-
-## 🚀 What I Do  
-I build data-driven solutions including dashboards, analytics systems, and machine learning models to solve real-world business problems and support decision-making.  
-
-## 📫 Connect with Me  
-- LinkedIn: https://www.linkedin.com/in/amarnath-chatterjee-8482a5266  
+<h1 align="center">Hi 👋, I'm Amarnath Chatterjee</h1>
+<h3 align="center">Aspiring Data Scientist | Machine Learning & Deep Learning</h3>
 
 ---
-⭐ Always learning, building, and growing in Data Science & AI
+
+### 🧠 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</div>
+
+---
+
+### 📊 About Me
+- 🔭 Working on ML & Data Analytics Projects  
+- 🌱 Learning Deep Learning & GenAI  
+- 💬 Ask me about Python, SQL, Machine Learning, Power BI  
+- 📫 Reach me: amarnathchatterjee232002@gmail.com  
+
+---
+
+### 🚀 Projects
+- 💻 Laptop Price Prediction (ML + Streamlit)  
+- 📈 Customer Retention Dashboard (Power BI)  
+- 🤖 Customer Churn Prediction  
+- 💰 Financial Transaction Analysis  
+- 🚚 Logistics Optimization (SQL)  
+
+---
+
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/amarnath-chatterjee-8482a5266">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amar232002&show_icons=true&theme=radical"/>
+</p>
