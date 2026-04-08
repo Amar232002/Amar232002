@@ -115,16 +115,19 @@ Current Status:
 
 Recent Work:
   - Data Science Intern @ Unified Mentor (Aug-Nov 2024)
-    • Built 3+ Power BI dashboards for business KPIs
-    • Performed EDA on 10,000+ record datasets
-    
+    • Developed 3+ interactive Power BI dashboards to track business KPIs and performance metrics  
+    • Performed EDA on 10,000+ records to identify trends and generate actionable insights  
+    • Improved data-driven decision-making through visualization and reporting  
+
   - Data Science Intern @ My Job Grow (Jun-Aug 2024)
-    • Developed ML models with 85%+ accuracy
-    • Automated reporting reducing manual effort by 30%
-    
-  - Cyber Security Intern @ Aeronspire (Dec 2024-Jan 2025)
-    • Automated security reports with Python
-    • Reduced manual work by 40%
+    • Built and optimized machine learning models achieving 85%+ accuracy  
+    • Analyzed large datasets (10k+ records) using Python (Pandas, NumPy)  
+    • Automated reporting workflows, reducing manual effort by 30%  
+
+  - Cyber Security Intern @ Aeronspire Pvt. Ltd. (Dec 2024-Jan 2025)
+    • Automated security report generation using Python, reducing manual work by 40%  
+    • Conducted vulnerability assessments and basic penetration testing  
+    • Assisted in security analysis and compliance processes  
 ```
 
 ---
