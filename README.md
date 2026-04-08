@@ -11,21 +11,23 @@
 ## 🚀 **About Me**
 
 ```python
-class DataScientist:
+class Data_Scientist:
     def __init__(self):
         self.name = "Amarnath Chatterjee"
-        self.role = "Data Scientist | ML Engineer"
+        self.role = "Data Scientist | AI/ML Engineer"
         self.education = "B.Tech in Computer Science (2025)"
         self.location = "Dhanbad, Jharkhand, India"
         
     def get_skills(self):
         return {
-            "languages": ["Python", "SQL"],
-            "ml_frameworks": ["Scikit-Learn", "TensorFlow", "XGBoost"],
-            "data_tools": ["Pandas", "NumPy", "Power BI", "Tableau"],
-            "databases": ["MySQL", "PostgreSQL"],
-            "deployment": ["Flask", "Streamlit"],
-            "other": ["Git", "Jupyter", "Excel"]
+              "Languages": ["Python", "SQL"],
+        "Machine Learning": ["Scikit-learn", "Regression", "Classification", "Random Forest", "Model Evaluation"],
+        "Deep Learning": ["TensorFlow (Basics)", "Neural Networks"],
+        "Data Analysis": ["Pandas", "NumPy", "EDA", "Feature Engineering", "Data Cleaning"],
+        "Visualization": ["Power BI", "Matplotlib", "Seaborn"],
+        "Databases": ["MySQL", "PostgreSQL"],
+        "Deployment": ["Flask", "Streamlit"],
+        "Tools": ["Git", "Jupyter Notebook", "Excel"]
         }
     
     def current_focus(self):
